@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Costa</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **jobico-flow**
+- 🔭 I’m currently working on **Coeux**, a multitenant cloud platform.
 
 - 📫 How to reach me **andres.costa@gmail.com**
 
